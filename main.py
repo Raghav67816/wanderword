@@ -5,8 +5,7 @@ from PySide6.QtWebEngineWidgets import QWebEngineView
 from PySide6.QtWidgets import QMainWindow, QApplication
 
 api_url = 'https://api.api-ninjas.com/v1/randomword'
-app_id = '5850c05b'
-dict_key = '2a9ba447-8520-4efc-859a-c40da7b948d9'
+dict_key = 'YOUR_APP_ID_MERRIAN_WEBSTER'
 
 word = ''
 
